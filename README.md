@@ -1,0 +1,1 @@
+Exercice 05 : Sierpinski's triangle
